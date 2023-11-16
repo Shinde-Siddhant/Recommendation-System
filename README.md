@@ -11,6 +11,7 @@ A Movie Recommendation System.
 ## Project Overview
 - This project is a movie recommendation system that leverages machine learning techniques to suggest movies to users based on their preferences and viewing history.
 - By analyzing user behavior and movie characteristics, the system aims to enhance the user's movie-watching experience.
+- The project notebook is available at https://github.com/Shinde-Siddhant/Recommendation-System/blob/main/Project%20Notebook/Final_Project_Recommendation_System.ipynb
 
 ## Key Features
 - Personalized movie recommendations based on user preferences.
@@ -23,7 +24,7 @@ A Movie Recommendation System.
 
 ## Dataset
 - The project utilizes a movie dataset containing information about movie genres, Title  and other relevant attributes. This project also utilizes credits dataset containing information about movie title, cast and crew.
-- The dataset is available at [insert link].
+- The dataset is available at https://github.com/Shinde-Siddhant/Recommendation-System/tree/main/Dataset
 
 ## Results
 - Enhanced content variety and relevance, contributing to a more customized and enjoyable user experience.
